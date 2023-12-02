@@ -69,6 +69,7 @@ export default function Login(props){
         <br />
         <Button variant="primary" className="pull-right" type="submit">Login</Button>
       </Form>
+      { warning && ( <><br /><Alert variant="danger">{warning}</Alert></> )}
     </>
   );
 }
