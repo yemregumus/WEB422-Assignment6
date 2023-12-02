@@ -1,0 +1,15 @@
+.historyListItem:hover{
+   background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red, violet, indigo, blue, green, yellow, orange, red, violet, indigo, blue);
+  background-size: 1700% 100%;
+  animation: rainbowAnimation 8s linear infinite;
+}
+
+/* Animation for the rainbow effect */
+@keyframes rainbowAnimation {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 0%;
+  }
+}
