@@ -107,7 +107,7 @@ export default function MainNav() {
                 />
                 <Button
                   type="submit"
-                  variant="secondary"
+                  variant="outline-success"
                   onClick={() => setIsExpanded(false)}
                 >
                   Search
