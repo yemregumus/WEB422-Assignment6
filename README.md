@@ -1,3 +1,7 @@
+![image](https://github.com/yemregumus/WEB422-Assignment6/assets/97633311/f4612921-7a7e-48c5-b903-b0666448efdf)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
